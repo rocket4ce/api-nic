@@ -1,2 +1,2 @@
-require './hello'
+require './nic'
 run Sinatra::Application
